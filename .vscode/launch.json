@@ -1,0 +1,10 @@
+{
+    "version": "0.2.0",
+    "configurations": [{
+        "console": "integratedTerminal",
+        "type": "coreclr",
+        "request": "launch",
+        "name": "Launch",
+        "program": "${workspaceFolder}/TheCoolestTicTacToe/bin/Debug/net7.0/TheCoolestTicTacToe.dll"
+    }]
+}
