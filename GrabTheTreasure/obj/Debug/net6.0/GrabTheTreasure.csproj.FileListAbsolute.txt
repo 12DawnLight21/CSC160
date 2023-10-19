@@ -1,0 +1,4 @@
+C:\Classes\CSC160\GrabTheTreasure\obj\Debug\net6.0\GrabTheTreasure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Classes\CSC160\GrabTheTreasure\obj\Debug\net6.0\GrabTheTreasure.AssemblyInfoInputs.cache
+C:\Classes\CSC160\GrabTheTreasure\obj\Debug\net6.0\GrabTheTreasure.AssemblyInfo.cs
+C:\Classes\CSC160\GrabTheTreasure\obj\Debug\net6.0\GrabTheTreasure.csproj.CoreCompileInputs.cache

@@ -1,7 +1,4 @@
-﻿using System.Diagnostics.Contracts;
-using System.Runtime.CompilerServices;
-
-// 2 players, turn based
+﻿// 2 players, turn based
 
 // prompt-based inputs from each player
 // display board
