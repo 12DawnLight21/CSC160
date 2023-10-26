@@ -40,25 +40,32 @@ namespace MazeRunner.Game
 {
     internal class Maze
     {
-        public string mazeState;
-        private static string mazeSchema = "XXXXXXXXXXXX      X  XX      X  XX X  P    XX XXXXXX XXX         XXXXX  XXXXXX X       XX XXXXX  XXX     X   XXXXXXXXEXXX";
+        public char[] mazeState;
+        private static char[] mazeSchema = "XXXXXXXXXXXX      X  XX      X  XX X  P    XX XXXXXX XXX         XXXXX  XXXXXX X       XX XXXXX  XXX     X   XXXXXXXXEXXX".ToCharArray();
         public int rowLength = 11;
+
+        public static int PlayerStartPosition;
 
         public Maze()
         {
             mazeState = mazeSchema;
+            mazeState[PlayerStartPosition] = 'P';
         }
 
-        public void UpdateUserPosition(int position)
+        public void UpdateUserPosition(int currentPosition, int newPosition)
         {
-            if (position < 0 || position > mazeSchema.Length)
+            if (newPosition < 0 || newPosition > mazeSchema.Length)
             { 
             
             }
 
-            if (isValidSpace(position))
-            { 
+            if (isValidSpace(newPosition))
+            {
+                mazeState[currentPosition] = ' ';
+                mazeState[newPosition] = 'P';
+
                 //change position
+
             } else
             {
                 //throw error
@@ -68,7 +75,8 @@ namespace MazeRunner.Game
         }
         private bool isValidSpace(int position)
         {
-            return mazeSchema[position] == ' ';
+            return true;
+            //return mazeSchema[position] == ' ';
         }
     }
 }

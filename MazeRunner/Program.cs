@@ -27,16 +27,25 @@
 //        // here it asks to press "E" to exit 
 //        // and the key "E" is not shown in 
 //        // the console output window 
-//        while (Console.ReadKey(true).Key != ConsoleKey.E) << THIS FOR PLAYER INPUT!!
+//        while (Console.ReadKey(true).Key != ConsoleKey.E) << THIS FOR PLAYER 'E' INPUT!!
 //        {
 //        }
 
 //    }
 //}
-
 using MazeRunner.Game;
 using MazeRunner.UI;
 
 Maze gameMaze = new Maze();
+Player ourPlayer = new Player(5, "Prince", "Green");
+updateUI();
+gameMaze.UpdateUserPosition(65, 53);
+updateUI();
 
-Map.DrawMap(gameMaze.mazeState, gameMaze.rowLength);
+
+void updateUI()
+{
+    string mapString = new string(gameMaze.mazeState);
+    Map.DrawMap(mapString, gameMaze.rowLength);
+
+}

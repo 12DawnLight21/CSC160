@@ -40,12 +40,12 @@ namespace MazeRunner.UI
             //parse userselection
 
 
-            handleUserSelection("a");
+            handleUserSelection();
         }
 
-        private void handleUserSelection(string userSelection)
+        private void handleUserSelection()
         {
-        
+            
         }
     }
 }

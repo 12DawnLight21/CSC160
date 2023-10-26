@@ -13,6 +13,14 @@ namespace MazeRunner.Game
 
         private int playerPosition;
 
+        public Player(int initialPosition, string playerName, string playerColor)
+        {
+            name = playerName;
+            color = playerColor;
+
+            playerPosition = initialPosition;
+        }
+
         public void MovePlayer()
         {            
             //+11 for down
@@ -21,6 +29,18 @@ namespace MazeRunner.Game
             //-1 left
 
             //validate new position
+        }
+
+        public char getPlayerMove()
+        {
+            return 'w';
+        }
+
+        public bool isValidInput(char input)
+        {
+            char[] validPlayerInputs = { 'w', 'a', 's', 'd' };
+
+            return validPlayerInputs.Contains(input);
         }
     }
 }

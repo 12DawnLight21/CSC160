@@ -2,3 +2,13 @@ C:\Classes\CSC160\GrabTheTreasure\obj\Debug\net6.0\GrabTheTreasure.GeneratedMSBu
 C:\Classes\CSC160\GrabTheTreasure\obj\Debug\net6.0\GrabTheTreasure.AssemblyInfoInputs.cache
 C:\Classes\CSC160\GrabTheTreasure\obj\Debug\net6.0\GrabTheTreasure.AssemblyInfo.cs
 C:\Classes\CSC160\GrabTheTreasure\obj\Debug\net6.0\GrabTheTreasure.csproj.CoreCompileInputs.cache
+C:\Classes\CSC160\GrabTheTreasure\bin\Debug\net6.0\GrabTheTreasure.exe
+C:\Classes\CSC160\GrabTheTreasure\bin\Debug\net6.0\GrabTheTreasure.deps.json
+C:\Classes\CSC160\GrabTheTreasure\bin\Debug\net6.0\GrabTheTreasure.runtimeconfig.json
+C:\Classes\CSC160\GrabTheTreasure\bin\Debug\net6.0\GrabTheTreasure.dll
+C:\Classes\CSC160\GrabTheTreasure\bin\Debug\net6.0\GrabTheTreasure.pdb
+C:\Classes\CSC160\GrabTheTreasure\obj\Debug\net6.0\GrabTheTreasure.dll
+C:\Classes\CSC160\GrabTheTreasure\obj\Debug\net6.0\refint\GrabTheTreasure.dll
+C:\Classes\CSC160\GrabTheTreasure\obj\Debug\net6.0\GrabTheTreasure.pdb
+C:\Classes\CSC160\GrabTheTreasure\obj\Debug\net6.0\GrabTheTreasure.genruntimeconfig.cache
+C:\Classes\CSC160\GrabTheTreasure\obj\Debug\net6.0\ref\GrabTheTreasure.dll
