@@ -41,7 +41,7 @@ namespace GrabTheTreasure
                 switch (userChoice) 
                 {
                     case "1": //starts the game
-                        //Console.WriteLine("Thank you for playing!");
+                        Console.WriteLine("Use WASD to move! Must Enter to input movement.");
                         TreasureGame game1 = new TreasureGame();
                         if (game1.startGame())
                         {

@@ -1,0 +1,17 @@
+C:\Classes\CSC160\OpenTheSafe\bin\Debug\net6.0-windows\OpenTheSafe.exe
+C:\Classes\CSC160\OpenTheSafe\bin\Debug\net6.0-windows\OpenTheSafe.deps.json
+C:\Classes\CSC160\OpenTheSafe\bin\Debug\net6.0-windows\OpenTheSafe.runtimeconfig.json
+C:\Classes\CSC160\OpenTheSafe\bin\Debug\net6.0-windows\OpenTheSafe.dll
+C:\Classes\CSC160\OpenTheSafe\bin\Debug\net6.0-windows\OpenTheSafe.pdb
+C:\Classes\CSC160\OpenTheSafe\obj\Debug\net6.0-windows\OpenTheSafe.Form1.resources
+C:\Classes\CSC160\OpenTheSafe\obj\Debug\net6.0-windows\OpenTheSafe.csproj.GenerateResource.cache
+C:\Classes\CSC160\OpenTheSafe\obj\Debug\net6.0-windows\OpenTheSafe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Classes\CSC160\OpenTheSafe\obj\Debug\net6.0-windows\OpenTheSafe.AssemblyInfoInputs.cache
+C:\Classes\CSC160\OpenTheSafe\obj\Debug\net6.0-windows\OpenTheSafe.AssemblyInfo.cs
+C:\Classes\CSC160\OpenTheSafe\obj\Debug\net6.0-windows\OpenTheSafe.csproj.CoreCompileInputs.cache
+C:\Classes\CSC160\OpenTheSafe\obj\Debug\net6.0-windows\OpenTheSafe.dll
+C:\Classes\CSC160\OpenTheSafe\obj\Debug\net6.0-windows\refint\OpenTheSafe.dll
+C:\Classes\CSC160\OpenTheSafe\obj\Debug\net6.0-windows\OpenTheSafe.pdb
+C:\Classes\CSC160\OpenTheSafe\obj\Debug\net6.0-windows\OpenTheSafe.genruntimeconfig.cache
+C:\Classes\CSC160\OpenTheSafe\obj\Debug\net6.0-windows\ref\OpenTheSafe.dll
+C:\Classes\CSC160\OpenTheSafe\obj\Debug\net6.0-windows\OpenTheSafe.Properties.Resources.resources

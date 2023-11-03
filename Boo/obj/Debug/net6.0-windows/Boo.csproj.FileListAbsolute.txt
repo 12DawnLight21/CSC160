@@ -1,0 +1,16 @@
+C:\Classes\CSC160\Boo\bin\Debug\net6.0-windows\Boo.exe
+C:\Classes\CSC160\Boo\bin\Debug\net6.0-windows\Boo.deps.json
+C:\Classes\CSC160\Boo\bin\Debug\net6.0-windows\Boo.runtimeconfig.json
+C:\Classes\CSC160\Boo\bin\Debug\net6.0-windows\Boo.dll
+C:\Classes\CSC160\Boo\bin\Debug\net6.0-windows\Boo.pdb
+C:\Classes\CSC160\Boo\obj\Debug\net6.0-windows\Boo.Form1.resources
+C:\Classes\CSC160\Boo\obj\Debug\net6.0-windows\Boo.csproj.GenerateResource.cache
+C:\Classes\CSC160\Boo\obj\Debug\net6.0-windows\Boo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Classes\CSC160\Boo\obj\Debug\net6.0-windows\Boo.AssemblyInfoInputs.cache
+C:\Classes\CSC160\Boo\obj\Debug\net6.0-windows\Boo.AssemblyInfo.cs
+C:\Classes\CSC160\Boo\obj\Debug\net6.0-windows\Boo.csproj.CoreCompileInputs.cache
+C:\Classes\CSC160\Boo\obj\Debug\net6.0-windows\Boo.dll
+C:\Classes\CSC160\Boo\obj\Debug\net6.0-windows\refint\Boo.dll
+C:\Classes\CSC160\Boo\obj\Debug\net6.0-windows\Boo.pdb
+C:\Classes\CSC160\Boo\obj\Debug\net6.0-windows\Boo.genruntimeconfig.cache
+C:\Classes\CSC160\Boo\obj\Debug\net6.0-windows\ref\Boo.dll
